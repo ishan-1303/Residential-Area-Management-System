@@ -7,7 +7,7 @@ Java Folder contains SQLConnectionBean.java file which contains methods for data
 Compile the SQLConnectionBean.java file and paste the SQLConnectionBean.class file in WEB-INF/classes/bean folder.
 
 SQL folder contains sql file which contains the required tables and their layout.
-
+ 
 Technologies used:
 Programming Language: Java, HTML
 Databases: MySQL
