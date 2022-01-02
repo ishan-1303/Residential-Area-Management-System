@@ -8,8 +8,3 @@ Compile the SQLConnectionBean.java file and paste the SQLConnectionBean.class fi
 
 SQL folder contains sql file which contains the required tables and their layout.
  
-Technologies used:
-Programming Language: Java, HTML
-Databases: MySQL
-IDE: Eclipse
-Server: Tomcat
